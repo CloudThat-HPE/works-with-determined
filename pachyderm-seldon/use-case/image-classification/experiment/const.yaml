@@ -2,7 +2,7 @@ name: dogcat_single
 data:
     pachyderm:
       host: 3.132.203.158
-      port: 30181
+      port: 30640
       repo: dogs-and-cats
       branch: master
       token:

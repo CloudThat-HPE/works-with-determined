@@ -8,7 +8,7 @@ data:
       token:
 labels:
 hyperparameters:
-    learning_rate: .005
+    learning_rate: .0005
     global_batch_size: 32
     weight_decay: 1e-4
     nesterov: True
